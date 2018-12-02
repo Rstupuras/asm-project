@@ -4,9 +4,10 @@ Project is made using Adeept Mega 2560 Arduino
 ## Problem statement
 What can be done to detect movement of people passing through certain way?
 ## Design
-![State machine](https://raw.githubusercontent.com/gundarsv/asm-project/master/Diagrams/StateMachine.png)
-[//]: # (States)
-There are 2 possible states for the program
+![State machine](https://raw.githubusercontent.com/gundarsv/asm-project/master/Diagrams/StateMachine.png)  
+  
+  
+There are 2 possible states for the program  
 * LightOn - state where LED is on.
 * LightOff - state where LED is off.
 
