@@ -1,7 +1,5 @@
-init : 
-
 start:
-	ldi r24, 0b11111011 // set pin value to register 24
+	ldi r24, 0b11111111 // set pin value to register 24
 	ldi r22, 0b00000000
 	sts 0x27 , r22
 	sts 0x25, r24 //store register 24 value to  Port B Data Register
