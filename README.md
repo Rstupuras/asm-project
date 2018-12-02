@@ -6,8 +6,10 @@ What can be done to detect movement of people passing through certain way?
 ## Testing
 ![alt text](https://raw.githubusercontent.com/gundarsv/asm-project/master/StateMachine.png)
 There are 2 possible states for the program
-* LightOn - state where LED is on
-* LightOff - state where LED is off
+* LightOn - state where LED is on.
+* LightOff - state where LED is off.
+
+[//]: # (Description of state)
 When there is movement in front of PIR Movement sensor program goes to LightOn state, after 2.5 seconds it goes back to LightOff state.
 
 
