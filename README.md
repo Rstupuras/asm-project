@@ -5,7 +5,7 @@ Project is made using Adeept Mega 2560 Arduino
 What can be done to detect movement of people passing through certain way?
 ## Testing
 ![alt text](
-        asm-project/StateMachine.png
+        https://raw.githubusercontent.com/gundarsv/asm-project/master/StateMachine.png
       )
 
 
