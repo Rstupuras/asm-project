@@ -16,3 +16,17 @@ When there is movement in front of PIR Movement sensor program goes to LightOn s
 ## Testing
 ![Test](https://raw.githubusercontent.com/gundarsv/asm-project/master/Test/PIRTest.jpg)
 
+## Project diagram  
+
+Things used:
+* 10 wires
+* 1 PIR Movement sensor
+* 1 Adeept mega 2560 microcontroller board
+* 1 Breadboard
+* 2 LEDs
+* 3 220Ω resistors
+
+[//]: # (Description of connections)
+PIR Movement sensor is connected to 3 wires, 1 is connected to ground to microcontroller, 1 is connected to 5V power to microcontroller and the middle wire is connected to pin 35 to microcontroller. Pin 13 from microcontroller is connected to breadboard where is connection to the LEDs. Two resistors is connected to negative leg of LEDs, and one resistor is inbetween connection from pin 35 and connection to LEDs.
+
+![Project diagram](https://raw.githubusercontent.com/gundarsv/asm-project/master/Diagrams/FullDiagram.png)  
